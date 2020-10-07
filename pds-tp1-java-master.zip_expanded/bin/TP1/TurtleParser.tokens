@@ -1,0 +1,9 @@
+WS=1
+ENTITY=2
+STRING=3
+PTVIRG=4
+POINT=5
+VIRG=6
+';'=4
+'.'=5
+','=6
